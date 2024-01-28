@@ -6,8 +6,9 @@
 p{
 	text-align:center;
 }
-li{
+ul>li{
 	list-style-type:none;
+	text-decoration:none;
 }
 .summary {
       border-top: 2px solid #5ea4f3;
